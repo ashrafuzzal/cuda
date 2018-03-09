@@ -340,7 +340,8 @@ text-transform: uppercase;
 #touch-section form .form-group textarea{}
 #touch-section form input{}
 .form-control{
-	background-color: #273A71;
+    color:white;
+    background-color: #273A71;
     border: 0px transparent;
     border-radius: 5px;
 }
